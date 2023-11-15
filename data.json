@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "ID": "AA_0001",
+            "CName": "김지수",
+            "date_create": "2023-10-30",
+            "data_path": "./data/315로9135.jpg",
+            "filename": "car_2.jpg",
+            "x": 115,
+            "y": 171,
+            "w": 78,
+            "h": 20,
+            "label": "515로9135"
+        },
+        {
+            "ID": "AA_0002",
+            "CName": "김지수",
+            "date_create": "2023-10-30",
+            "data_path": "./data/1513781.jpg",
+            "filename": "car_6.jpg",
+            "x": 94,
+            "y": 216,
+            "w": 84,
+            "h": 28,
+            "label": "15대3781"
+        },
+        {
+            "ID": "AA_0003",
+            "CName": "김지수",
+            "date_create": "2023-10-30",
+            "data_path": "./data/68오8269.jpg",
+            "filename": "car5.jpg",
+            "x": 291,
+            "y": 256,
+            "w": 469,
+            "h": 131,
+            "label": "6828269"
+        },
+        {
+            "ID": "AA_0004",
+            "CName": "김지수",
+            "date_create": "2023-10-30",
+            "data_path": "./data/375298.jpg",
+            "filename": "car77.jpg",
+            "x": 19,
+            "y": 19,
+            "w": 101,
+            "h": 88,
+            "label": "업3745298"
+        }
+    ]
+}
